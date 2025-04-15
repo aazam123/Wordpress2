@@ -1,0 +1,829 @@
+Unlimited Elements Key
+sk_jzdv8#!HEvzMJvx_#:&_RFJ;zKIHo
+----------------------------------
+Essesio Adonis
+
+cdef0f0f8ef53ffdd7163dcfb6e7a361
+
+------------------------------------------
+Wocommerce page generate karva mate 
+
+Woocommerce setting - status - tools- regenerate page 
+Tidio Chat
+------------------------------------------
+
+Wordpress Site Format
+
+Header Upar Email ane Phone Number
+Size 16
+Line Hight 26
+400 
+-----------------------
+Header Menu Ma same size
+-----------------------------
+slider ma 
+welcome 
+title Size 20 |||Line Hight20 |400
+Main Title size 50
+Line Hight 60
+600
+--------------------------------
+slider paragraph
+size 16
+line hight 26
+400
+-----------------------
+button text 
+Size  16
+ Line Hight 16
+400
+---------------------------------------------------
+Google review mate 
+
+.ue_review_box_text
+{
+    height: 50px;
+    overflow-y: scroll;
+}
+
+--------------------------------------------------
+inner section ne copy karvanu ane collam ma past karva nu
+------------------------------------
+About maint title
+40
+60
+600
+pragraph text
+16
+26
+400
+--------------------------------------------
+icon list mate
+
+.elementor-widget .elementor-icon-list-item, .elementor-widget .elementor-icon-list-item a{    
+align-items: normal !important;    
+}    
+.elementor-widget .elementor-icon-list-icon{    
+padding-top: 8px;    
+}
+
+--------------------------------------
+Jyare icon list ma under pan list aaapel hoi tyre
+
+List ni under ui li nakhi add karvu
+--------------------------------------------
+button athva border hatvava mate
+
+.ast-single-post .entry-content a, .ast-comment-content a:not(.ast-comment-edit-reply-wrap a) { text-decoration: none;}
+--------------------------------------------------------------------------------
+icon bullet lai tyare
+collam ne 10 margin
+pading  0 aapva ni
+------------------------------------------------------------------------
+social media jyare footer ma ane header ma icon levana hoi tyare 
+icon size 13
+ane jyare page ma icon leva na tyare 
+icon size 16
+-------------------------------------------------
+contact page ma 
+mail address icon size 20
+spacing 15
+-----------------------------------------------------
+Advance tab code
+#adv .eael-advance-tabs .eael-tabs-nav>ul{border-radius: 100px;
+    padding: 0px;
+    margin: 0px 250px !important;
+    border: 2px solid #9BA2AB;}
+    @media screen and (max-width:800px){
+        #adv .eael-advance-tabs .eael-tabs-nav>ul{border-radius: 100px;
+    padding: 0px;
+    margin: 0px 0px !important;
+    border: 2px solid #9BA2AB;}}
+
+=------------------------------------------------------------------------------------------
+
+form ma aa changes karva na
+form - email - subject ma 
+
+ "Extraordinary Minds"
+-------------------------------------------------------
+Full Widht Problem Solve Karva mate :
+
+.site-content .ast-container {
+  display: contents;
+}
+
+--------------
+Jyare slider lai tyare aa code use karvanu
+
+<p style="line-height: 1px;color: #a38027; text-transform: uppercase; font-weight: normal;  font-size: 18px; letter-spacing: 10px;">Welcome To</p>Site Title
+-------------------------------------------------
+
+Jyare seo karvu hoi tyare
+
+Site kit Google Plugins
+Yost Seo plugins
+Install and setup karvanu
+
+https://www.youtube.com/watch?v=tu501rOVMGc
+
+---------------------------------
+Jyare blog ma error ague signal ma customize kari ne additional css ma code add karma no 
+
+.site-content .ast-container {
+  display: contents;
+}
+--------------------------
+Polylang
+Connect Polylang for Elementor
+Classic Editor                   --- jyare language change karva ni hoi tyare aa 3 plugins add
+------------------------------------------------
+Favicon by RealFaviconGenerator
+Click to Chat
+Widgets for Google Reviews
+Image Optimizer by Elementor – Compress, Resize and Optimize Images
+Simple Custom CSS and JS
+TI WooCommerce Wishlist
+Custom Post Type UI
+ACF Feild
+---------------------------
+Phtotopea
+
+Image
+Adjustment 
+ Briintess & contras
+--------------------------------
+Collum ma link mate nu plugins
+
+Make Column Clickable Elementor
+LiteSpeed Cache
+
+Image Optimizer by Elementor – Compress, Resize and Optimize Images
+
+Favicon by RealFaviconGenerator
+EmbedPress – Embed PDF, Google Docs, Vimeo, Wistia, Embed YouTube Videos, Audios, Maps & Embed Any Documents in Gutenberg & Elementor
+-----------------------------------
+Email nu form ma karva mate 
+
+Form na email ma javanu pacha advance ma Shortcode copy karvanu and email ma jai ne From Email ma past karma nu  reply  to ma  Shortcode select karvanu
+
+
+------------------------------------
+Scrolll Thai header no colour change Thai Tena mate code
+
+.elementor-sticky--effects {
+   background: #3E3EF5!important; /* change the background color here*/
+}
+
+.elementor-sticky--effects .sticky-menu ul li a /* change the menu text color here*/ {
+   color: #fff!important;
+}
+
+.elementor-sticky--effects, .sticky-menu ul li a {
+  transition: .5s all ease-in-out;
+}
+
+---------------------------------------------
+Box - title
+
+<span style="background-color:#0CA7E5;   color: white; font-size: 16px; padding:5px 15px 5px 15px;">Lessons - 2
+</span>
+
+Font style code 
+
+About Us<span style="color:#005289;font-weight:700">  </span>
+
+
+---------------------------------------------------
+Additional css
+
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active:before, .woocommerce div.ast-product-tabs-layout-vertical .woocommerce-tabs ul.tabs li:hover::before {
+    background: #1dafed;
+}
+.ast-single-post .entry-content a, .ast-comment-content a:not(.ast-comment-edit-reply-wrap a) { text-decoration: none;
+}
+-------------------------------------------------------
+/* Slide In From The Top Option */
+
+.header-2 {
+ transform: translatey(-87px);
+ -moz-transition: all .3s ease!important;
+ -webkit-transition: all .3s ease!important;
+ transition: all .3s ease!important;
+ width: 100%!important;
+}
+
+
+.elementor-sticky--effects.header-2  {
+ height: auto!important;
+ transform: translatey(0px);
+}
+
+.elementor-sticky--effects.header-1 {
+ display: none!important;
+}
+
+/* End Of Slide In From The Top Option */
+----------------------------------------------------
+
+jyare video size nani karve hoi tyre 
+
+/*Desktop video height*/
+
+selector .elementor-widget-container 
+{    
+    height: 450px !important; /*Adjust desktop video height*/
+}
+
+/*Tablet video height*/
+@media (max-width: 200px) {
+
+selector .elementor-widget-container 
+{    
+    height: auto !important; /*Replace auto with px value for tablet height*/
+}
+}
+
+/*Mobile video height*/
+@media (max-width: 1040px) {
+
+selector .elementor-widget-container
+{ 
+    height: 450px !important; /*Replace auto with px value for mobile height*/
+}
+}
+----------------------------------------------------------
+Woo commerce ma zoom images badh karva 
+
+function remove_image_zoom_support() {
+    remove_theme_support( 'wc-product-gallery-zoom' );
+}
+add_action( 'after_setup_theme', 'remove_image_zoom_support', 100 );
+-----------------------------------------------------------------------
+
+2 header scroll effect 
+
+2 header banannu pacht bija header ma -- white_header_ -- class aapvanu
+
+.elementor-sticky--effects{
+	background-color: #ffffff!important;
+}
+#normal_header_     #white_header_{
+	display: none;
+}
+#white_header_ .elementor-sticky--effects{
+	display: block!important;
+}
+-----------------------------------------------------------
+Post pagenation design mate 
+
+.page-numbers{
+padding: 5px 10px 5px 10px;
+  background-color:#006EDF;
+  color: #fff;
+  border-radius: 10px;
+  font-family: inter;
+}
+.page-numbers:hover{
+    background-color:#5ADBFF;
+  color: #006EDF;
+  border-radius: 10px;
+}
+.uc-posts-pagination{
+    margin-top: 20px;
+    text-align: center;
+}
+-----------------------------------------------------------
+Product and Post category page mate
+
+Template ma Achieve Template banana nu ane ema categari ni condition apvani ane Archive Title 
+Levanu pachi niche Post Grid widget levanu Post Query ma Current Query Post Select Karvanu etle bani jashe 
+
+
+-----------------------------------------------------------
+Image Scroll mate
+.elem{
+    
+    width: 0; 
+    height: 0;
+    border-style: solid;
+    border-width: 75px;
+   
+    transition-property: transform;
+    transition-duration: 1s;
+}
+.elem:hover {
+    animation-name: rotate; 
+    animation-duration: 2s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes rotate {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(360deg);}
+}
+---------------------------------------------------------
+Dashboard hacked
+
+https://wiztechitsolutions.net/wp-json/wp/v2/users
+------------------------------------------------------------
+Testimonials Content Scroll Karva mate
+
+.ue-text p {
+  max-height: 100px !important; /* Adjust height as needed */
+  overflow-y: scroll !important; /* Enable scrolling */
+}
+.ue-text::-webkit-scrollbar {
+  width: 20px !important;
+}
+.ue-text::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey !important;
+  border-radius: 10px !important;
+}
+.ue-text::-webkit-scrollbar-thumb {
+  background: red !important;
+  border-radius: 10px !important;
+}
+.ue-text::-webkit-scrollbar-thumb:hover {
+  background: #B30000 !important;
+}
+
+-----------------------------------------------
+
+All country names
+
+Afghanistan
+Åland Islands
+Albania
+Algeria
+American
+SamoaAndorra
+Angola
+Anguilla
+Antigua & Barbuda
+Argentina
+Armenia
+Aruba
+AscensionIsland
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+BoliviaBosnia&Herzegovina
+Botswana
+Brazil
+British Indian Ocean Territory
+British Virgin IslandsBrunei
+BulgariaBurkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+CentralAfricanRepublic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo - Brazzaville
+Congo - Kinshasa
+Cook Islands
+Costa Rica
+Côte d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czechia
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Faroe Islands
+FijiFinland
+France
+French Guiana
+French Polynesia
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong SAR China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+IrelandIsle of ManIsrael
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao SAR China
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North KoreaNorth Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Réunion
+Romania
+Russia
+Rwanda
+Samoa
+San MarinoS
+ão Tomé & Príncipe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South 
+Sudan
+Spain
+Sri Lanka
+St. Barthélemy
+St. Helena
+St. Kitts & Nevis
+St. Lucia
+St. Martin
+St. Pierre & Miquelon
+St. Vincent & Grenadines
+Sudan
+Suriname
+Svalbard & Jan Mayen
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad & Tobago
+Tristan da Cunha
+Tunisia
+Turkey
+Turkmenistan
+Turks & Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Wallis & FutunaWestern Sahara
+Yemen
+Zambia
+Zimbabwe
+---------------------------------
+EtisWeb_325
+--------------------------------
+Jyare Wordpreess edit ma presentation add karvanu hai tyre customise and add css
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *){
+	background-color: #000000 !important;
+}
+
+/** Start Block Kit CSS: 71-3-d415519effd9e11f35d2438c58ea7ebf **/
+
+.envato-block__preview{overflow: visible;}
+
+/** End Block Kit CSS: 71-3-d415519effd9e11f35d2438c58ea7ebf **/
+
+
+
+/** Start Block Kit CSS: 144-3-3a7d335f39a8579c20cdf02f8d462582 **/
+
+.envato-block__preview{overflow: visible;}
+
+/* Envato Kit 141 Custom Styles - Applied to the element under Advanced */
+
+.elementor-headline-animation-type-drop-in .elementor-headline-dynamic-wrapper{
+	text-align: center;
+}
+.envato-kit-141-top-0 h1,
+.envato-kit-141-top-0 h2,
+.envato-kit-141-top-0 h3,
+.envato-kit-141-top-0 h4,
+.envato-kit-141-top-0 h5,
+.envato-kit-141-top-0 h6,
+.envato-kit-141-top-0 p {
+	margin-top: 0;
+}
+
+.envato-kit-141-newsletter-inline .elementor-field-textual.elementor-size-md {
+	padding-left: 1.5rem;
+	padding-right: 1.5rem;
+}
+
+.envato-kit-141-bottom-0 p {
+	margin-bottom: 0;
+}
+
+.envato-kit-141-bottom-8 .elementor-price-list .elementor-price-list-item .elementor-price-list-header {
+	margin-bottom: .5rem;
+}
+
+.envato-kit-141.elementor-widget-testimonial-carousel.elementor-pagination-type-bullets .swiper-container {
+	padding-bottom: 52px;
+}
+
+.envato-kit-141-display-inline {
+	display: inline-block;
+}
+
+.envato-kit-141 .elementor-slick-slider ul.slick-dots {
+	bottom: -40px;
+}
+
+/** End Block Kit CSS: 144-3-3a7d335f39a8579c20cdf02f8d462582 **/
+
+
+
+/** Start Block Kit CSS: 69-3-4f8cfb8a1a68ec007f2be7a02bdeadd9 **/
+
+.envato-kit-66-menu .e--pointer-framed .elementor-item:before{
+	border-radius:1px;
+}
+
+.envato-kit-66-subscription-form .elementor-form-fields-wrapper{
+	position:relative;
+}
+
+.envato-kit-66-subscription-form .elementor-form-fields-wrapper .elementor-field-type-submit{
+	position:static;
+}
+
+.envato-kit-66-subscription-form .elementor-form-fields-wrapper .elementor-field-type-submit button{
+	position: absolute;
+    top: 50%;
+    right: 6px;
+    transform: translate(0, -50%);
+		-moz-transform: translate(0, -50%);
+		-webmit-transform: translate(0, -50%);
+}
+
+.envato-kit-66-testi-slider .elementor-testimonial__footer{
+	margin-top: -60px !important;
+	z-index: 99;
+  position: relative;
+}
+
+.envato-kit-66-featured-slider .elementor-slides .slick-prev{
+	width:50px;
+	height:50px;
+	background-color:#ffffff !important;
+	transform:rotate(45deg);
+	-moz-transform:rotate(45deg);
+	-webkit-transform:rotate(45deg);
+	left:-25px !important;
+	-webkit-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+	-moz-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+	box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+}
+
+.envato-kit-66-featured-slider .elementor-slides .slick-prev:before{
+	display:block;
+	margin-top:0px;
+	margin-left:0px;
+	transform:rotate(-45deg);
+	-moz-transform:rotate(-45deg);
+	-webkit-transform:rotate(-45deg);
+}
+
+.envato-kit-66-featured-slider .elementor-slides .slick-next{
+	width:50px;
+	height:50px;
+	background-color:#ffffff !important;
+	transform:rotate(45deg);
+	-moz-transform:rotate(45deg);
+	-webkit-transform:rotate(45deg);
+	right:-25px !important;
+	-webkit-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+	-moz-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+	box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+}
+
+.envato-kit-66-featured-slider .elementor-slides .slick-next:before{
+	display:block;
+	margin-top:-5px;
+	margin-right:-5px;
+	transform:rotate(-45deg);
+	-moz-transform:rotate(-45deg);
+	-webkit-transform:rotate(-45deg);
+}
+
+.envato-kit-66-orangetext{
+	color:#f4511e;
+}
+
+.envato-kit-66-countdown .elementor-countdown-label{
+	display:inline-block !important;
+	border:2px solid rgba(255,255,255,0.2);
+	padding:9px 20px;
+}
+
+/** End Block Kit CSS: 69-3-4f8cfb8a1a68ec007f2be7a02bdeadd9 **/
+
+
+
+/** Start Block Kit CSS: 143-3-7969bb877702491bc5ca272e536ada9d **/
+
+.envato-block__preview{overflow: visible;}
+/* Material Button Click Effect */
+.envato-kit-140-material-hit .menu-item a,
+.envato-kit-140-material-button .elementor-button{
+  background-position: center;
+  transition: background 0.8s;
+}
+.envato-kit-140-material-hit .menu-item a:hover,
+.envato-kit-140-material-button .elementor-button:hover{
+  background: radial-gradient(circle, transparent 1%, #fff 1%) center/15000%;
+}
+.envato-kit-140-material-hit .menu-item a:active,
+.envato-kit-140-material-button .elementor-button:active{
+  background-color: #FFF;
+  background-size: 100%;
+  transition: background 0s;
+}
+
+/* Field Shadow */
+.envato-kit-140-big-shadow-form .elementor-field-textual{
+	box-shadow: 0 20px 30px rgba(0,0,0, .05);
+}
+
+/* FAQ */
+.envato-kit-140-faq .elementor-accordion .elementor-accordion-item{
+	border-width: 0 0 1px !important;
+}
+
+/* Scrollable Columns */
+.envato-kit-140-scrollable{
+	 height: 100%;
+   overflow: auto;
+   overflow-x: hidden;
+}
+
+/* ImageBox: No Space */
+.envato-kit-140-imagebox-nospace:hover{
+	transform: scale(1.1);
+	transition: all 0.3s;
+}
+.envato-kit-140-imagebox-nospace figure{
+	line-height: 0;
+}
+
+.envato-kit-140-slide .elementor-slide-content{
+	background: #FFF;
+	margin-left: -60px;
+	padding: 1em;
+}
+.envato-kit-140-carousel .slick-active:not(.slick-current)  img{
+	padding: 20px !important;
+	transition: all .9s;
+}
+
+/** End Block Kit CSS: 143-3-7969bb877702491bc5ca272e536ada9d **/
+
+---------------------------------------
+Hello Sir,
+
+I’m Aazam Morvadiya, an experienced WordPress web developer with 5 year of expertise in creating dynamic, responsive, and user-friendly websites tailored to each client’s needs. I specialize in WordPress development, including theme customization, plugin integration, performance optimization, and SEO-friendly design. I’d love to work with you on Need a wordpress website developer.
+
+Here’s why I’m a great fit for this project
+Proven Track Record: I have a strong portfolio with successful WordPress projects for a wide range of industries, including [mention any relevant industries]. My previous clients have praised my attention to detail, creative solutions, and timely delivery.
+
+Custom Solutions: I take pride in creating tailored websites that go beyond standard templates to ensure they meet both functional and aesthetic requirements. If you have a specific vision or brand style, I’ll brin
+
+Technical Expertise: My skill set includes:
+- Custom theme development and modification
+- Plugin integration and configuration
+- WooCommerce, Elementor, and ACF Pro experience (mention any - ----- specific plugins relevant to the job)
+- Performance optimization (page speed, security hardening, etc.)
+- Cross-browser compatibility and mobile responsiveness
+
+A Few Examples of My Work
+https://aazammorvadiya.rf.gd/portfolio/
+
+
+
+
+https://italk.cc/4.html
+31831230
